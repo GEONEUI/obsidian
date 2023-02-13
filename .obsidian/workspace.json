@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "164ac336b48c5e37",
+    "type": "split",
+    "children": [
+      {
+        "id": "d89fcac6a929bfb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a1d7159cba39f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OB/영구노트/전정부환경설정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "72a85cd1107c54bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65916fd4a5e10517",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d755a96ffc13de7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ed8cfbc446917d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ec8380e55fcc01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "399d2d067395557e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46c761506b54616d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "145a698e20a36dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6972c4fd26ae61f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "361bf29c2981fa87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7137eecdc0062b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82bfa5747e3f6a35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "697128e75ae9f454",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "65916fd4a5e10517",
+  "lastOpenFiles": [
+    "OB/영구노트/전정부환경설정.md",
+    "OB/영구노트/스프링 MVC.md",
+    "OB/영구노트/코딩.md",
+    "OB/영구노트/JSP.md",
+    "OB/영구노트/cos.md",
+    "OB/영구노트/자바스크립트.md",
+    "OB/영구노트/무제 파일.md",
+    "OB/영구노트/SQL CRUD.md",
+    "OB/영구노트/자바스크립트 fetch 문법.md",
+    "OB/영구노트/자바스크립트 로컬스토리지.md"
+  ]
+}
