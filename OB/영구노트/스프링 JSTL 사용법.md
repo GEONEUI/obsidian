@@ -1,14 +1,11 @@
 <p id="today" style="color:#999; margin:10px 0 10px 10px">
   2023-04-04
 </p>
-
 #스프링
 
 
 ## gradlew
 ---
-
-
 >gradlew
 ```
 implementation 'org.springframework.boot:spring-boot-starter-web'
@@ -36,6 +33,7 @@ spring.datasource.url=jdbc:mysql:localhost://3306/thisisjava
 spring.datasource.dbcp2.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.mvc.view.prefix=/WEB-INF/view/
 spring.mvc.view.suffix=.jsp
+spring.servlet.multipart.enabled=false
 
 ```
 
