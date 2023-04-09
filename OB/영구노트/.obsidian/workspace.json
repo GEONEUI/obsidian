@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "로컬스토리지.md",
+                "file": "수리온 환경설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "570286823a982ab6",
@@ -175,20 +174,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "daa336031646450a",
   "lastOpenFiles": [
+    "수리온 환경설정.md",
+    "스프링 시큐리티 사용법.md",
+    "스프링 파일업로드.md",
+    "스프링 페이지네이션.md",
     "스프링 split 함수.md",
     "스프링 JSTL 사용법.md",
-    "스프링 파일업로드.md",
-    "스프링 시큐리티 사용법.md",
     "로컬스토리지.md"
   ]
 }
