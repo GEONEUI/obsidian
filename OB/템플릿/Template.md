@@ -1,6 +1,4 @@
-<p id="today" style="color:#999; margin:10px 0 10px 10px">
-  2023-04-02
-</p>
+
 #마크다운
 
 ### 마크다운의 사용
