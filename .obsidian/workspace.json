@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce403d54a1f8d34a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OB/영구노트/Gson 사용법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b2ba853f4a8cc7c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OB/영구노트/스프링 시큐리티 사용법.md",
+                "file": "OB/노트/스프링 파일업로드.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OB/영구노트/Gson 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OB/영구노트/Gson 사용법.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OB/영구노트/Gson 사용법.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,15 +158,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ce403d54a1f8d34a",
+  "active": "4d524855688b18b7",
   "lastOpenFiles": [
+    "OB/노트/스프링 파일업로드.md",
+    "OB/노트/로컬스토리지.md",
+    "OB/영구노트/Gson 사용법.md",
+    "Obsidian.lnk",
+    "OB/노트/스프링 페이지네이션.md",
+    "OB/노트/스프링 시큐리티 사용법.md",
+    "OB/노트/스프링 split 함수.md",
+    "OB/노트/스프링 JSTL 사용법.md",
+    "OB/노트/수리온 환경설정.md",
+    "OB/노트/Pom.xml.md",
+    "OB/노트/Gson 사용법.md",
+    "OB/노트",
+    "OB/image/시큐리티.png",
     "OB/영구노트/스프링 split 함수.md",
     "OB/영구노트/수리온 환경설정.md",
     "OB/영구노트/스프링 파일업로드.md",
     "OB/영구노트/스프링 시큐리티 사용법.md",
     "OB/영구노트/스프링 페이지네이션.md",
     "OB/영구노트/스프링 JSTL 사용법.md",
-    "OB/영구노트/Gson 사용법.md",
     "OB/영구노트/로컬스토리지.md",
     "OB/영구노트/스프링 시큐리티.md",
     "OB/템플릿/List.md",
@@ -202,15 +198,9 @@
     "OB/영구노트/스프링 MVC.md",
     "OB/영구노트/cos.md",
     "OB/영구노트/전정부환경설정.md",
-    "OB/영구노트/자바스크립트 로컬스토리지.md",
-    "OB/영구노트/JSP.md",
-    "OB/영구노트/자바스크립트 fetch 문법.md",
-    "OB/영구노트/SQL CRUD.md",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
-    "OB/영구노트/자바스크립트.md",
     "무제 파일 1.canvas",
-    "OB/영구노트/코딩.md",
     "OB.zip"
   ]
 }
