@@ -16,6 +16,7 @@ providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
 testImplementation 'org.springframework.boot:spring-boot-starter-test'
 implementation group: 'jstl', name: 'jstl', version: '1.2'
 implementation group: 'org.apache.tomcat.embed', name: 'tomcat-embed-jasper', version: '9.0.58'
+implementation group: 'com.servlets', name: 'cos', version: '09May2002'
 
 ```
 
