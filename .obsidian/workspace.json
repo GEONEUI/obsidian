@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd969c37bdcdde3",
+        "id": "6f73633c88aee540",
         "type": "tabs",
         "children": [
           {
-            "id": "c140a1e37c737cc5",
+            "id": "b2ba853f4a8cc7c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "OB/노트/Gson 사용법.md",
                 "mode": "source",
                 "source": false
@@ -25,17 +26,18 @@
             "state": {
               "type": "markdown",
               "state": {
+=======
+>>>>>>> c94b81d33977f9ed904e542604f4634561768220
                 "file": "OB/노트/스프링 파일업로드.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "60728cbc63a14d8d",
+        "id": "6f3c5ed391d34c96",
         "type": "tabs",
         "children": [
           {
@@ -45,20 +47,6 @@
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "ce403d54a1f8d34a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OB/템플릿/List.md",
-                "mode": "source",
-                "source": false
-              },
               "pinned": true
             }
           }
@@ -128,7 +116,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "OB/노트/스프링 파일업로드.md",
+=======
+>>>>>>> c94b81d33977f9ed904e542604f4634561768220
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +136,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "OB/노트/스프링 파일업로드.md",
+=======
+>>>>>>> c94b81d33977f9ed904e542604f4634561768220
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +161,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "OB/노트/스프링 파일업로드.md"
               }
+=======
+              "state": {}
+>>>>>>> c94b81d33977f9ed904e542604f4634561768220
             }
           }
         ]
@@ -181,16 +179,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "canvas:새 캔버스 만들기": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0c7a0cf0c74bc7f8",
+  "active": "4d524855688b18b7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "OB/노트/스프링 JSTL 사용법.md",
     "OB/노트/스프링 split 함수.md",
     "OB/노트/Gson 사용법.md",
@@ -207,7 +206,34 @@
     "OB/템플릿/Template.md",
     "OB/image/시큐리티.png",
     "OB/영구노트/스프링 시큐리티.md",
+=======
+    "OB/노트/스프링 파일업로드.md",
+    "OB/노트/로컬스토리지.md",
+    "OB/영구노트/Gson 사용법.md",
+    "Obsidian.lnk",
+    "OB/노트/스프링 페이지네이션.md",
+    "OB/노트/스프링 시큐리티 사용법.md",
+    "OB/노트/스프링 split 함수.md",
+    "OB/노트/스프링 JSTL 사용법.md",
+    "OB/노트/수리온 환경설정.md",
+    "OB/노트/Pom.xml.md",
+    "OB/노트/Gson 사용법.md",
+    "OB/노트",
+    "OB/image/시큐리티.png",
+    "OB/영구노트/스프링 split 함수.md",
+    "OB/영구노트/수리온 환경설정.md",
+    "OB/영구노트/스프링 파일업로드.md",
+    "OB/영구노트/스프링 시큐리티 사용법.md",
+    "OB/영구노트/스프링 페이지네이션.md",
+    "OB/영구노트/스프링 JSTL 사용법.md",
+    "OB/영구노트/로컬스토리지.md",
+    "OB/영구노트/스프링 시큐리티.md",
+    "OB/템플릿/List.md",
+    "OB/image/Pasted image 20230406094118.png",
+    "OB/image/Pasted image 20230406092955.png",
+>>>>>>> c94b81d33977f9ed904e542604f4634561768220
     "Pasted image 20230402230950.png",
+    "OB/image/Pasted image 20230402230833.png",
     "OB/영구노트/Pasted image 20230402230839.png.md",
     "OB/image",
     "Pasted image 20230402230839.png",
@@ -216,18 +242,13 @@
     "무제 파일 6.canvas",
     "무제 파일 5.canvas",
     "무제 파일 4.canvas",
+    "OB/템플릿/Template.md",
     "OB/영구노트/스프링 MVC.md",
     "OB/영구노트/cos.md",
     "OB/영구노트/전정부환경설정.md",
-    "OB/영구노트/자바스크립트 로컬스토리지.md",
-    "OB/영구노트/JSP.md",
-    "OB/영구노트/자바스크립트 fetch 문법.md",
-    "OB/영구노트/SQL CRUD.md",
     "무제 파일 3.canvas",
     "무제 파일 2.canvas",
-    "OB/영구노트/자바스크립트.md",
     "무제 파일 1.canvas",
-    "OB/영구노트/코딩.md",
     "OB.zip"
   ]
 }
