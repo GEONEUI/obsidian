@@ -8,21 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#자바스크립트",
+      "query": "path:노트/자바스크립트",
       "color": {
         "a": 1,
         "rgb": 16773458
       }
     },
     {
-      "query": "",
+      "query": "path:노트/스프링",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16722352
+      }
+    },
+    {
+      "query": "path:노트/프로젝트",
+      "color": {
+        "a": 1,
+        "rgb": 3361264
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.000000000000015,
+  "scale": 0.7132754626224557,
   "close": true
 }

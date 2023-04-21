@@ -1,34 +1,19 @@
 {
   "main": {
-    "id": "164ac336b48c5e37",
+    "id": "35793f7f4d461465",
     "type": "split",
     "children": [
       {
-        "id": "6f73633c88aee540",
+        "id": "710a228c0d734aee",
         "type": "tabs",
         "children": [
           {
-            "id": "b2ba853f4a8cc7c0",
+            "id": "d59a72b1be241d57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "OB/노트/Gson 사용법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c7a0cf0c74bc7f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-=======
->>>>>>> c94b81d33977f9ed904e542604f4634561768220
-                "file": "OB/노트/스프링 파일업로드.md",
+                "file": "OB/노트/전자정부프레임워크/스프링 디비연결.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,11 +22,11 @@
         ]
       },
       {
-        "id": "6f3c5ed391d34c96",
+        "id": "cd148019d8936994",
         "type": "tabs",
         "children": [
           {
-            "id": "4d524855688b18b7",
+            "id": "f92b0d499d3c7158",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -56,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d755a96ffc13de7e",
+    "id": "6be6ea21b14e04dd",
     "type": "split",
     "children": [
       {
-        "id": "7ed8cfbc446917d4",
+        "id": "0307dc79637dda75",
         "type": "tabs",
         "children": [
           {
-            "id": "66ec8380e55fcc01",
+            "id": "81ce1c0ed8a758bc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,7 +59,7 @@
             }
           },
           {
-            "id": "399d2d067395557e",
+            "id": "0b9f2428c916d646",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -89,7 +74,7 @@
             }
           },
           {
-            "id": "46c761506b54616d",
+            "id": "bbec8027ea0d9a58",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -103,23 +88,20 @@
     "width": 300
   },
   "right": {
-    "id": "145a698e20a36dd6",
+    "id": "7ae674ed68e05488",
     "type": "split",
     "children": [
       {
-        "id": "f6972c4fd26ae61f",
+        "id": "a49a81ec8476d371",
         "type": "tabs",
         "children": [
           {
-            "id": "361bf29c2981fa87",
+            "id": "8f6da408a6a61aaf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "OB/노트/스프링 파일업로드.md",
-=======
->>>>>>> c94b81d33977f9ed904e542604f4634561768220
+                "file": "OB/노트/전자정부프레임워크/스프링 디비연결.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,22 +113,19 @@
             }
           },
           {
-            "id": "a7137eecdc0062b0",
+            "id": "5dd2b4759dd60e27",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "OB/노트/스프링 파일업로드.md",
-=======
->>>>>>> c94b81d33977f9ed904e542604f4634561768220
-                "linksCollapsed": true,
+                "file": "OB/노트/전자정부프레임워크/스프링 디비연결.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "82bfa5747e3f6a35",
+            "id": "b8d24a9fc7a9728b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,17 +136,13 @@
             }
           },
           {
-            "id": "697128e75ae9f454",
+            "id": "7aa20d927bad1e79",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {
-                "file": "OB/노트/스프링 파일업로드.md"
+                "file": "OB/노트/전자정부프레임워크/스프링 디비연결.md"
               }
-=======
-              "state": {}
->>>>>>> c94b81d33977f9ed904e542604f4634561768220
             }
           }
         ]
@@ -179,76 +154,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:새 캔버스 만들기": false,
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4d524855688b18b7",
+  "active": "d59a72b1be241d57",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "OB/노트/스프링 JSTL 사용법.md",
-    "OB/노트/스프링 split 함수.md",
-    "OB/노트/Gson 사용법.md",
-    "OB/노트/스프링 페이지네이션.md",
-    "OB/노트/수리온 환경설정.md",
-    "OB/노트/로컬스토리지.md",
-    "OB/노트/Pom.xml.md",
-    "OB/노트/스프링 시큐리티 사용법.md",
-    "OB/노트/스프링 파일업로드.md",
-    "OB/image/Pasted image 20230406094118.png",
-    "OB/image/Pasted image 20230406092955.png",
-    "OB/템플릿/List.md",
-    "Pasted image 20230410093008.png",
+    "OB/노트/jsp/WebSocket.md",
+    "OB/노트/오라클/오라클7.md",
+    "OB/노트/오라클/오라클6.md",
+    "OB/노트/전자정부프레임워크/스프링 디비연결.md",
+    "OB/노트/전자정부프레임워크",
+    "OB/노트/오라클/오라클9.md",
+    "OB/노트/프로젝트/수리온 환경설정.md",
+    "OB/노트/프로젝트",
+    "OB/노트/오라클/오라클8.md",
+    "OB/노트/오라클",
+    "OB/노트/스프링/스프링 시큐리티 사용법.md",
+    "Pasted image 20230406092955.png.md",
+    "OB/노트/자바스크립트/로컬스토리지.md",
+    "OB/노트/jsp",
+    "OB/노트/자바/Gson 사용법.md",
     "OB/템플릿/Template.md",
-    "OB/image/시큐리티.png",
-    "OB/영구노트/스프링 시큐리티.md",
-=======
-    "OB/노트/스프링 파일업로드.md",
-    "OB/노트/로컬스토리지.md",
-    "OB/영구노트/Gson 사용법.md",
-    "Obsidian.lnk",
-    "OB/노트/스프링 페이지네이션.md",
-    "OB/노트/스프링 시큐리티 사용법.md",
-    "OB/노트/스프링 split 함수.md",
-    "OB/노트/스프링 JSTL 사용법.md",
-    "OB/노트/수리온 환경설정.md",
-    "OB/노트/Pom.xml.md",
-    "OB/노트/Gson 사용법.md",
-    "OB/노트",
-    "OB/image/시큐리티.png",
-    "OB/영구노트/스프링 split 함수.md",
-    "OB/영구노트/수리온 환경설정.md",
-    "OB/영구노트/스프링 파일업로드.md",
-    "OB/영구노트/스프링 시큐리티 사용법.md",
-    "OB/영구노트/스프링 페이지네이션.md",
-    "OB/영구노트/스프링 JSTL 사용법.md",
-    "OB/영구노트/로컬스토리지.md",
-    "OB/영구노트/스프링 시큐리티.md",
     "OB/템플릿/List.md",
-    "OB/image/Pasted image 20230406094118.png",
-    "OB/image/Pasted image 20230406092955.png",
->>>>>>> c94b81d33977f9ed904e542604f4634561768220
-    "Pasted image 20230402230950.png",
-    "OB/image/Pasted image 20230402230833.png",
-    "OB/영구노트/Pasted image 20230402230839.png.md",
-    "OB/image",
-    "Pasted image 20230402230839.png",
-    "무제 파일.canvas",
-    "OB/영구노트/Test.md",
-    "무제 파일 6.canvas",
-    "무제 파일 5.canvas",
-    "무제 파일 4.canvas",
-    "OB/템플릿/Template.md",
-    "OB/영구노트/스프링 MVC.md",
-    "OB/영구노트/cos.md",
-    "OB/영구노트/전정부환경설정.md",
-    "무제 파일 3.canvas",
-    "무제 파일 2.canvas",
-    "무제 파일 1.canvas",
-    "OB.zip"
+    "OB/노트/스프링/Pom.xml.md",
+    "OB/노트/자바",
+    "OB/노트/스프링",
+    "OB/노트/자바스크립트",
+    "OB/노트/스프링/스프링 split 함수.md"
   ]
 }
