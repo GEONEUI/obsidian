@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OB/노트/전자정부프레임워크/스프링 디비연결.md",
+                "file": "OB/노트/스프링/스프링 JSTL 사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OB/노트/전자정부프레임워크/스프링 디비연결.md",
+                "file": "OB/노트/스프링/스프링 JSTL 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OB/노트/전자정부프레임워크/스프링 디비연결.md",
+                "file": "OB/노트/스프링/스프링 JSTL 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OB/노트/전자정부프레임워크/스프링 디비연결.md"
+                "file": "OB/노트/스프링/스프링 JSTL 사용법.md"
               }
             }
           }
@@ -164,10 +164,10 @@
   },
   "active": "d59a72b1be241d57",
   "lastOpenFiles": [
+    "OB/노트/전자정부프레임워크/스프링 디비연결.md",
     "OB/노트/jsp/WebSocket.md",
     "OB/노트/오라클/오라클7.md",
     "OB/노트/오라클/오라클6.md",
-    "OB/노트/전자정부프레임워크/스프링 디비연결.md",
     "OB/노트/전자정부프레임워크",
     "OB/노트/오라클/오라클9.md",
     "OB/노트/프로젝트/수리온 환경설정.md",
